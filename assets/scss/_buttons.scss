@@ -13,7 +13,7 @@ a.button {
   justify-content: center;
   padding: 8px 18px;
   margin-bottom: 5px;
-  background: $light-background-secondary;
+  background: $dark-background-secondary;
   text-decoration: none;
   text-align: center;
   font-weight: 500;
@@ -30,7 +30,7 @@ a.button {
 
   &.outline {
     background: transparent;
-    border-color: $light-background-secondary;
+    border-color: $dark-background-secondary;
     box-shadow: none;
     padding: 8px 18px;
 
@@ -78,7 +78,7 @@ a.button {
     justify-content: center;
     padding: 3px 8px;
     margin-bottom: 5px;
-    background: $light-background-secondary;
+    background: $dark-background-secondary;
     text-decoration: none;
     text-align: center;
     font-size: 13px;

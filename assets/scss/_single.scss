@@ -110,8 +110,8 @@
       text-align: center;
       margin: 0 auto;
       padding: 5px 10px;
-      background: $light-background;
-      color: $light-color-secondary;
+      background: $dark-background;
+      color: $dark-color-secondary;
       font-size: 0.8rem;
       text-transform: uppercase;
       text-decoration: none;
@@ -151,7 +151,7 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: $light-background-secondary;
+  background: $dark-background-secondary;
   font-size: 1rem;
   font-weight: 600;
   border-radius: 8px;

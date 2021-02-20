@@ -9,7 +9,7 @@
     th,
     td {
       padding: 12px 15px;
-      border: 1px solid $light-table-color;
+      border: 1px solid $dark-table-color;
 
       @media (prefers-color-scheme: dark) {
         border: 1px solid $dark-table-color;
@@ -18,8 +18,8 @@
 
     thead {
       tr {
-        background-color: $light-table-color;
-        color: $light-color;
+        background-color: $dark-table-color;
+        color: $dark-color;
         text-align: left;
 
         @media (prefers-color-scheme: dark) {
@@ -31,7 +31,7 @@
 
     tbody {
       tr {
-        border: 1px solid $light-table-color;
+        border: 1px solid $dark-table-color;
         
         @media (prefers-color-scheme: dark) {
           border: 1px solid $dark-table-color;
